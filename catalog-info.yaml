@@ -4,6 +4,7 @@ metadata:
   name: artist-app
   annotations:
     github.com/project-slug: micro-frontend-cra/artist-app
+    backstage.io/techdocs-ref: url:https://github.com/micro-frontend-cra/artist-app/tree/main
 spec:
   type: other
   lifecycle: unknown

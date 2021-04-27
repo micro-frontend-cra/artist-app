@@ -2,6 +2,9 @@ site_name: "artist-app-docs"
 
 nav:
   - Home: README.md
+    subnav:
+      GettingStarted: gettingStarted.md
+  - Development: development.md
 
 plugins:
   - techdocs-core
