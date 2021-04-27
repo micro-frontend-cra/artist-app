@@ -2,8 +2,8 @@ site_name: "artist-app-docs"
 
 nav:
   - Artist App: index.md
-      - Getting Started: gettingStarted.md
-      - Frontend Architecture: architecture.md
+  - Getting Started: gettingStarted.md
+  - Frontend Architecture: architecture.md
   - Development: development.md
 
 plugins:
