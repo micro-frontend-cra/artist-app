@@ -1,3 +1,3 @@
 # artist-app
 
-Read more on docs/index.md
+Read more on [`Docs`](docs/index.md)
