@@ -5,6 +5,7 @@ nav:
     subnav:
       GettingStarted: gettingStarted.md
   - Development: development.md
+  - Test: index.md
 
 plugins:
   - techdocs-core
