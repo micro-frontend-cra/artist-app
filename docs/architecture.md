@@ -1,0 +1,3 @@
+# FE Architecture
+
+Architecture documentation
