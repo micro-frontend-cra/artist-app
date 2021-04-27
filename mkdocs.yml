@@ -1,0 +1,7 @@
+site_name: "artist-app-docs"
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
